@@ -3,3 +3,5 @@ numpy
 seaborn
 matplotlib
 folium
+geopy
+shapely
